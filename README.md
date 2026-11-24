@@ -2,7 +2,7 @@
 
 Turn feedback from any application into clear English GitHub issues.
 
-**Skill version: 0.1.0**
+**Skill version: v0.1**
 
 ```text
 Authorized app / API / database / pasted feedback
