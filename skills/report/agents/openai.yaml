@@ -1,0 +1,4 @@
+interface:
+  display_name: "report"
+  short_description: "Turn app feedback into English GitHub issues"
+  default_prompt: "Use $report to turn selected feedback from my connected app or database into English issues in my project's GitHub repository."
